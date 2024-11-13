@@ -10,7 +10,7 @@ A responsive and modern pricing plan section for a business website, built with 
 - Call-to-Action Buttons: Each plan features a prominent "Get Started" button for easy user interaction.
 ### Technologies Used
 - HTML
-- CSS (flexbox/grid for layout, hover effects for buttons)
+- CSS (flexbox/grid for layout)
 
 💼 Contact me on linkedin. [Linkedin](https://www.linkedin.com/in/adityamamta/) <br>
 adityamamta4@gmail.com
