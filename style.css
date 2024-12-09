@@ -19,6 +19,7 @@
 
 ::selection {
     background-color: var(--blue);
+    color: var(--white);
 }
 
 html {
