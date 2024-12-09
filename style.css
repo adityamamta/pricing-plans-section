@@ -124,7 +124,8 @@ ul {
     flex-direction: column;
     gap: .6rem;
     border-top: 2px solid rgba(132, 129, 153, .2);
-    padding-block: 2.4rem;
+    padding-top: 2.4rem;
+    padding-bottom: 2.4rem;
     li {
         display: flex;
         align-items: center;
